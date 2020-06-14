@@ -1,0 +1,17 @@
+C:\Users\Pc\Desktop\Ders_Programi\Ders_Programi\bin\x64\Debug\Ders_Programi.exe
+C:\Users\Pc\Desktop\Ders_Programi\Ders_Programi\bin\x64\Debug\Ders_Programi.pdb
+C:\Users\Pc\Desktop\Ders_Programi\Ders_Programi\obj\x64\Debug\Ders_Programi.csprojAssemblyReference.cache
+C:\Users\Pc\Desktop\Ders_Programi\Ders_Programi\obj\x64\Debug\Ders_Programi.Form1.resources
+C:\Users\Pc\Desktop\Ders_Programi\Ders_Programi\obj\x64\Debug\Ders_Programi.Form2.resources
+C:\Users\Pc\Desktop\Ders_Programi\Ders_Programi\obj\x64\Debug\Ders_Programi.Form3.resources
+C:\Users\Pc\Desktop\Ders_Programi\Ders_Programi\obj\x64\Debug\Ders_Programi.Form4.resources
+C:\Users\Pc\Desktop\Ders_Programi\Ders_Programi\obj\x64\Debug\Ders_Programi.Form5.resources
+C:\Users\Pc\Desktop\Ders_Programi\Ders_Programi\obj\x64\Debug\Ders_Programi.Form6.resources
+C:\Users\Pc\Desktop\Ders_Programi\Ders_Programi\obj\x64\Debug\Ders_Programi.Form7.resources
+C:\Users\Pc\Desktop\Ders_Programi\Ders_Programi\obj\x64\Debug\Ders_Programi.Form8.resources
+C:\Users\Pc\Desktop\Ders_Programi\Ders_Programi\obj\x64\Debug\Ders_Programi.Form9.resources
+C:\Users\Pc\Desktop\Ders_Programi\Ders_Programi\obj\x64\Debug\Ders_Programi.Properties.Resources.resources
+C:\Users\Pc\Desktop\Ders_Programi\Ders_Programi\obj\x64\Debug\Ders_Programi.csproj.GenerateResource.cache
+C:\Users\Pc\Desktop\Ders_Programi\Ders_Programi\obj\x64\Debug\Ders_Programi.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\Ders_Programi\Ders_Programi\obj\x64\Debug\Ders_Programi.exe
+C:\Users\Pc\Desktop\Ders_Programi\Ders_Programi\obj\x64\Debug\Ders_Programi.pdb
